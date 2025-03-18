@@ -1,0 +1,23 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mads-hartmann.bash-ide-vscode",
+				"dbaeumer.vscode-eslint",
+				"streetsidesoftware.code-spell-checker",
+				"ms-dotnettools.vscode-dotnet-runtime",
+				"vscode-icons-team.vscode-icons"
+			]
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/docker-in-docker:1": {}
+	},
+	"postCreateCommand": "npm install -g @devcontainers/cli",
+	"remoteUser": "node"
+        }
+    },
+     "forwardPorts": [3000]
+
+}
