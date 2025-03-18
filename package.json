@@ -1,0 +1,19 @@
+{
+  "name": "cityboy-splash",
+  "version": "1.0.0",
+  "description": "a few of my fav things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialmofabs/cityboy-splash.git"
+  },
+  "author": "Moses Fabiyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officialmofabs/cityboy-splash/issues"
+  },
+  "homepage": "https://github.com/officialmofabs/cityboy-splash#readme"
+}
