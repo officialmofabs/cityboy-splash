@@ -1,4 +1,4 @@
-# my-documaker project
+# cityboy-splash
 
 # Running it
 
